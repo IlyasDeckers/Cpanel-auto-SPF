@@ -2,6 +2,9 @@
 #
 # Script for updating SPF records all accounts on a cPanel server
 #
+# Usage:
+#    chmod +x update-spf.sh
+#    ./update-spf
 
 echo 'Starting SPF script'
 
