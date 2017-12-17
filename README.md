@@ -1,4 +1,4 @@
-# Cpanel-auto-SPF
+# Cpanel external SPF
 
 The /usr/local/cpanel/Cpanel/SPF.pm file handles the SPF installation script that runs "/usr/local/cpanel/bin/spf_installer username" and is also used in cPanel > Email Authentication area for setting the IP for the SPF record. First, make a backup of the file:
 
